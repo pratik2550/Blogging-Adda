@@ -3,11 +3,12 @@ package com.example.quotesapp.viewmodels
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.quotesapp.QuoteApplication
 import com.example.quotesapp.models.QuoteList
-import com.example.quotesapp.models.Result
 import com.example.quotesapp.repository.QuoteRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+
 
 class MainViewModel(private val repository: QuoteRepository): ViewModel() {
 
