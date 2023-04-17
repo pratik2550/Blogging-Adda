@@ -2,7 +2,6 @@
 
 Blogging Adda is a platform that anyone can use to publish their content on the internet in the form of a blog. It is a platform where a writer or even a group of writers share their views on an individual subject. In this platform, content is presented in reverse chronological order, with the latest posts appearing first. The primary purpose of this platform is to connect bloggers to the relevant audience.
 
-You can see the live site [here](https://prashant1099.pythonanywhere.com/)
 
 
 ## Snapshots
@@ -13,23 +12,19 @@ You can see the live site [here](https://prashant1099.pythonanywhere.com/)
 
 **Login Page**
 
-![Image of Login Page](https://github.com/Prashant1099/Blogging-Adda/blob/master/Snapshots/Login%20Page.png)
+![Image of Login Page](https://github.com/pratik2550/Blogging-Adda/blob/master/Snapshots/Login%20Page.png)
 
 **Home Page**
 
-![Image of Home Page](https://github.com/Prashant1099/Blogging-Adda/blob/master/Snapshots/Home%20Page.png)
+![Image of Home Page](https://github.com/pratik2550/Blogging-Adda/blob/master/Snapshots/Home%20Page.png)
 
 **About Us Page**
 
-![Image of About Us Page](https://github.com/Prashant1099/Blogging-Adda/blob/master/Snapshots/About%20Us%20Page.png)
+![Image of About Us Page](https://github.com/pratik2550/QuotesApp/blob/master/Snapshots/About%20Page.png)
 
 **New Post**
 
-![Image of New Post](https://github.com/Prashant1099/Blogging-Adda/blob/master/Snapshots/New%20Post%20Page.png)
-
-**User Profile Page**
-
-![Image of User Profile Page](https://github.com/Prashant1099/Blogging-Adda/blob/master/Snapshots/Profile%20Page.png)
+![Image of New Post](https://github.com/pratik2550/Blogging-Adda/blob/master/Snapshots/New%20Post%20Page.png)
 
 
 ## Getting Started with Development
@@ -69,7 +64,7 @@ Script\activate
 
 ##### Clone Git respository:
 ```
-git clone https://github.com/Prashant1099/Blogging-Adda.git
+git clone https://github.com/pratik2550/Blogging-Adda.git
 ```
 
 #### Enter into cloned repository (Blogging-Adda):
